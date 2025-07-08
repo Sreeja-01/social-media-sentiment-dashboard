@@ -1,0 +1,5 @@
+# .gitignore  
+.env               # Ignore environment variables  
+__pycache__/       # Ignore Python cache  
+*.log              # Ignore log files  
+.DS_Store          # Ignore macOS metadata  
